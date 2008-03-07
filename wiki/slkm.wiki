@@ -1,4 +1,5 @@
 #summary Skins Layouts Keyboards Maps  Шкурки, Раскладки, клавиатурки и "карты языков"
+#labels Featured
 
 = IF YOU done any new Если Вы сделали что-то свое :) =
 
