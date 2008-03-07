@@ -4,7 +4,7 @@
 = Added first new skin / Добавлена первая новая шкурка к 8 марте =
 
 смотрите раздел Downloads
-http://kbtrainer.googlecode.com/files/big pink absolute skin.zip
+http://kbtrainer.googlecode.com/files/big%20pink%20absolute%20skin.zip
 
 
 #Added new version / Добавлена новая версия.
@@ -13,5 +13,4 @@ http://kbtrainer.googlecode.com/files/big pink absolute skin.zip
 
 смотрите раздел Downloads
 
-http://kbtrainer.googlecode.com/files/kbTrainer 1.1.zip
-
+http://kbtrainer.googlecode.com/files/kbTrainer%201.1.zip
