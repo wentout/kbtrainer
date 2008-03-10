@@ -1,0 +1,23 @@
+#labels Featured
+versions
+
+= versions compare =
+
+all versions are fully functionable
+
+kbTrainer -- just first.
+
+kbTrainer 1.1 cleared some fings, that was not needed anymore
+
+kbTrainer 1.11 fixed bug, when you call F1 help -- keyboard don't work after :)
+
+= отличия версий =
+
+все версии полнофункциональны
+
+kbTrainer -- просто первая версия.
+
+kbTrainer 1.1 в коде почищены некоторые вещи, которые больше не нужны, 
+в остальном отличий от предыдущей нет
+
+kbTrainer 1.11 пофиксена ошибка: когда Вы нажимали F1 справка, то клавиатура вырубалась, включить можно было только если вызвать настройки, библиотеку или что-то типа того :)
