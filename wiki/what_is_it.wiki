@@ -21,4 +21,5 @@ features
  http://code.google.com/p/kbtrainer/downloads/list 
 
 if you want to participate in developing or have any fun idea, so go here:
-http://code.google.com/p/kbtrainer/wiki/slkm or write me mail (below) ;^)
+
+http://code.google.com/p/kbtrainer/wiki/sklmen or write me mail (below) ;^)
