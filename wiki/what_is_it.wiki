@@ -17,7 +17,7 @@ features
 - theoretically you can add any language. Type your own 
 - a lot of different small features...
 
- *for downloading kbTrainer use:*
+ <b>for downloading kbTrainer use: </b>
  http://code.google.com/p/kbtrainer/downloads/list 
 
 if you want to participate in developing or have any fun idea, so go here:
