@@ -1,5 +1,54 @@
 #summary old versions reviews / описание старых версий
 
+
+17 sep 2009 14:27
+* Свершилось... Теперь есть версия для Fire Fox *
+* Fire Fox version now avaliable *
+
+<b>[http://kbtrainer.googlecode.com/files/kbtrainerff_0.1.0.xpi FF 0.1.0 XPI]:</b>
+<pre>
+1. Не могу вспомнить, правил что-то, но не баги.
+2. Добавлена еще одна раскладка.
+3. Добавлено две новых шкурки.
+4. Новая методика создания шкурок.
+5. Теперь создатели шкурок могут немного рассказать о себе 
+    (e-mail и ссылка на сайт публикуются в настройках шкурки).
+</pre>
+
+0.0.5 -- пофиксен мелкий баг, возникший после улучшения с украинской раскладкой.
+<br>
+0.0.4 -- пофиксен другой баг, улучшена работа с украинской раскладкой...
+<br>
+<br>
+<a href = "https://addons.mozilla.org/ru/firefox/addon/14396">
+<h3>kbTrainer at Fire Fox add-ons site</h3>
+</a>
+
+----
+
+=== 12 aug 2009 00:49 ===
+
+
+ОТ нечего делать ВЫШЛА новая версия !
+
+добавлена работа с KOI-8r, UTF-8, UTF-16 !
+
+для работы необходим свежий MDAC, обычно есть у всех, так что не парьтесь.
+
+WOW! New Version SUBMITTED !
+
+new Charsets UTF-8, UTF-16, Latin1 !
+
+Charsets works from ADO, so you need fresh MDAC.
+Although, by default it included to Windows...
+
+
+[http://kbtrainer.googlecode.com/files/kbTrainer_1.25U.zip  - kbTrainer 1.25U]
+Enjoy!
+
+
+
+
 = versions compare=
 
 all versions are fully functionable
