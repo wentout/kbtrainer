@@ -11,10 +11,15 @@ HTA (HTML Application) touch typing trainer program.
 features
 
 - open source
+
 - error correction (backspace)
+
 - book library, so you can train typing on real books
+
 - flexible interface
+
 - theoretically you can add any language. Type your own 
+
 - a lot of different small features...
 
  <b>for downloading kbTrainer use: </b>
