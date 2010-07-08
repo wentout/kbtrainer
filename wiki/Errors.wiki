@@ -1,4 +1,3 @@
-#labels Featured
 *if error Access Denied during loading programm.*
 
 *Если ошибка "отказано в доступе" во время загрузки*
