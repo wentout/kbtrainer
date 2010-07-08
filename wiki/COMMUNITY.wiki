@@ -1,5 +1,5 @@
+#summary COMMUNITY
 #labels Featured
-# COMMUNITY   
 
 *эта wiki посвящена участникам проекта
 
