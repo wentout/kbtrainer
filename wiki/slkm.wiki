@@ -1,17 +1,10 @@
-#summary Skins Layouts Keyboards Maps  Шкурки, Раскладки, клавиатурки и "карты языков"
+#summary Шкурки, Раскладки, клавиатурки и "карты языков"
 #labels Featured
 
-= IF YOU done any new Если Вы сделали что-то свое :) =
+= Если Вы сделали что-то свое :) =
 
 Если вы создадите свою шкуру, внешний вид клавиатуры, раскладку клавиатуры, язык добавите, или там, например, хелп к программе попишете, то я с радостью рассмотрю этот "контент" и добавлю в раздел DOWNLOADS с указанием, конечно же Вашего имени (если это Вам нужно).
 
-IF you create new skin, layout, keyboard or map & send it to me via mail i'll watch it & add in downloads with your nam as autor.
-
 Как это сделать?
-Смотрите каталог /res/ в каталоге программы. Тем, кто не поймет -- объяснять не буду :)
-
-How to do this (skin, layout etc)?
-
-Watch in /res/ catalog. If you can't understand this -- not my problem ;^)
-
-= дело за вами  :) done with you =
+Смотрите файлы в каталоге программы. 
+Тем, кто не поймет -- объяснять не буду :)
