@@ -1,5 +1,4 @@
 #summary What is It?
-#labels Featured
 
 = Of about What is It?=
 
