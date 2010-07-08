@@ -1,4 +1,3 @@
-#labels Featured
 versions
 
 = versions compare =
