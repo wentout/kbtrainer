@@ -1,7 +1,9 @@
 #labels Featured
-# эта wiki посвящена участникам проекта
+#COMMUNITY   
 
-# this page is about members of kbTrainer Project
+*эта wiki посвящена участникам проекта
+
+this page is about members of kbTrainer Project*
 
 
 = Introduction RU =
