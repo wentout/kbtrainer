@@ -8,16 +8,18 @@ Automatically exported from code.google.com/p/kbtrainer
 
 #### kbTrainer for Google Chrome 0.1
 
--- Google Chrome Extension kbTrainer for Google Chrome 0.1
+-- Google Chrome Extension kbTrainer for <br><a href="https://github.com/wentout/kbtrainer/blob/master/binaries/kbTrainer_0.1.crx" target="_blank" download>Google Chrome 0.1</a>
 
 #### kbtrainerff
 
 0.1.5 Realy Compatible 3rd and 4th version Firefox
--- Mozilla Firefox addon All Versions kbTrainerFF from addons.mozilla.org
+-- Mozilla Firefox addon All Versions kbTrainerFF <br><a href="https://addons.mozilla.org/en-US/firefox/addon/14396" target="_blank" download>from addons.mozilla.org</a>
 
 
-##### kbTrainer 2.1
--- HTML Application for Windows kbTrainer 2.1 HTA
+#### kbTrainer 2.1
+-- HTML Application for Windows <br><a href="https://github.com/wentout/kbtrainer/blob/master/binaries/kbTrainer%201.21.zip" target="_blank" download>kbTrainer 2.1 HTA</a>
+
+
 
 ---
 
