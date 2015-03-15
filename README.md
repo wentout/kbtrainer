@@ -8,7 +8,7 @@ Automatically exported from code.google.com/p/kbtrainer
 
 #### kbTrainer for Google Chrome 0.1
 
--- Google Chrome Extension kbTrainer for <br><a href="https://github.com/wentout/kbtrainer/blob/master/binaries/kbTrainer_0.1.crx" target="_blank" download>Google Chrome 0.1</a>
+-- Google Chrome Extension kbTrainer for <br><a href="https://github.com/wentout/kbtrainer/blob/master/binaries/kbTrainer_0.1.crx?raw=true" target="_blank" download>Google Chrome 0.1</a>
 
 #### kbtrainerff
 
@@ -17,18 +17,18 @@ Automatically exported from code.google.com/p/kbtrainer
 
 
 #### kbTrainer 2.1
--- HTML Application for Windows <br><a href="https://github.com/wentout/kbtrainer/blob/master/binaries/kbTrainer%201.21.zip" target="_blank" download>kbTrainer 2.1 HTA</a>
+-- HTML Application for Windows <br><a href="https://github.com/wentout/kbtrainer/blob/master/binaries/kbTrainer%201.21.zip?raw=true" target="_blank" download>kbTrainer 2.1 HTA</a>
 
 ---
 
 ##### 25 nov 2010 23:55
 <i>Добавлена утилита Matrix Determinant Calculator, ну, может кому-нибудь будет нужно.</i>
 <br>
-<a href="https://github.com/wentout/kbtrainer/blob/master/binaries/determinant.zip" target="_blank" download> Determinant</a>
+<a href="https://github.com/wentout/kbtrainer/blob/master/binaries/determinant.zip?raw=true" target="_blank" download> Determinant</a>
 
 ##### 12 aug 2009 01:45
 <i>Добавлена утилита Recode, ну, может кому-нибудь будет нужно.</i>
-<br><a href="https://github.com/wentout/kbtrainer/blob/master/binaries/Recode_v.1.0.zip" target="_blank" download>- Recode_v.1.0</a>
+<br><a href="https://github.com/wentout/kbtrainer/blob/master/binaries/Recode_v.1.0.zip?raw=true" target="_blank" download>- Recode_v.1.0</a>
 
 ---
 
